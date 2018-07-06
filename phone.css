@@ -1,0 +1,11 @@
+div{
+    background-color: blue;
+    box-sizing: border-box;
+    box-shadow: 2px 6px 3px grey;
+    width: 300px;
+    height:250px;
+    margin:200px 500px;
+    padding:50px 80px;
+    color:red;
+    overflow:auto;
+}
